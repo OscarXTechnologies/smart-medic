@@ -1,0 +1,2 @@
+<?php
+// Account page placeholder.
